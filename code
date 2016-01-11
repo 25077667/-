@@ -4,7 +4,7 @@
 using namespace std;
 int main() 
 {
-	long double a,b;
+	int a,b;
 	cout<<"輸入要算對數表的範圍 (以十為底) 取到小數點後15位"<<endl<<"輸入真數(起點)"<<endl; 
 	cin>>a;
 	cout<<"輸入真數(終點)"<<endl;
